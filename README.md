@@ -1,2 +1,2 @@
 # Practice1
-Just for sample
+Just for sample.
